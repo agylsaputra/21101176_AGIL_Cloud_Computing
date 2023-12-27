@@ -1,3 +1,4 @@
 nama  : agil saputra
 nim  : 21101176
 matkul  : Cloud Computing 
+kelas : Q
