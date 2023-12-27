@@ -2,3 +2,4 @@ nama  : agil saputra
 nim  : 21101176
 matkul  : Cloud Computing 
 kelas : Q
+jam kul  :  Rbu, 19,50 wib
